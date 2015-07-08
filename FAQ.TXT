@@ -1,0 +1,74 @@
+XO Halo tv antenna FAQ.TXT
+===============================
+
+Frequently Asked Questions
+
+Q: Why is content in unreadable file formats and unrecognized file extensions?
+
+A: Content is published in a variety of standard formats:
+
+  file suffix     format type
+  .gif            Graphical Interchange Format File
+  .html           Web page readable by internet browsers
+  .JPG            A graphics image format readable by internet browsers
+  .md             Markdown file format ie. a text format 
+                    that renders well in html converters
+  .odt            OpenDocument text format. Can't read? Try LibreOffice 
+  .odg            OpenDocument graphics format. Can't read? Try LibreOffice
+  .TXT            Text file
+
+  More on OpenDocument formats at http://en.wikipedia.org/wiki/OpenDocument
+
+
+Q: This isn't a mature product. Why did you publish it now?
+
+A: The design has reached a level where it has the potential for 
+   open hardware practitioners and DIYers to make impressive
+   innovations with it.  It is released under an open hardware
+   license in part to prevent patent restrictions from potentially
+   foiling rapid advance of a new generation of technology.
+
+
+Q: Why is this tv antenna design called "XO Halo"?
+
+A: Because the design has primary elements that 
+   resemble the union of a cross or plus sign and a halo.
+
+
+Q: How can this work? It defies tested principles of electricity and physics.
+
+A: No performance is expected when viewed in common domains of 
+   electrical operation. The same can be said of many electrical 
+   parts viewed outside of their conventional operating parameters.  
+   This apparatus operates in the domain of high frequencies and direct, 
+   inductive, and capacitive coupling. See documentation for 
+   a detailed explanation.
+
+
+Q: This antenna design does not work with my tv.
+
+A: Since this is a new design, bugs and unknown limitations likely
+   exist. Please read the rest of the FAQs for common techniques
+   used to resolve some reception issues.
+   If you continue to have issues, consider contacting the 
+   manufacturer of your unit to report a possible bug, or 
+   contact a tv antenna installer to obtain additional diagnostic 
+   help.
+
+
+Q: After automatic channel programming, one or more channels are missing 
+   from the channel list.
+
+A: Try power cycling the TV, manually choosing one of the missing channels,
+   then re-programming the channel list. Some tv receivers select channels based
+   on the channel selected just prior to programming.
+   If a channel remains missing, try moving the antenna to where 
+   the signal may be stronger such as on a window sill or above most
+   objects in the room; Also consider moving the antenna further away 
+   from objects that might emit signals that intefere such as 
+   electrically powered devices --including the tv reciever.
+   As with other indoor tv antennas, there is usually some compromise
+   made between available channels and the antenna installation configuration
+   such as position or orientation.
+
+

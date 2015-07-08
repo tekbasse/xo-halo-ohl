@@ -1,0 +1,11 @@
+# These modifications are licensed under the TAPR Open Hardware License.
+# Only append change descriptions. Do not remove existing material.
+#
+# Version 1.0 released 8 July 2015
+# No changes.
+
+# Added FAQs via FAQ.TXT on 8 July 2015
+
+
+(Report a summary of changes here.)
+
