@@ -15,7 +15,7 @@ You should have received a copy of the GNU General Public License along with thi
 Abstract
 ========
 
-This hardware design is a low-cost solution for building an indoor tv antenna using 75ohm coaxial cable. A wide-band balen is built into the antenna. The design reduces material construction costs and reduces overall physical profile while matching signal strength and quality of other indoor tv antenna profiles.
+This hardware design is a low-cost solution for building an indoor tv antenna using 75ohm coaxial cable. A wide-band balun is built into the antenna. The design reduces material construction costs and reduces overall physical profile while matching signal strength and quality of other indoor tv antenna profiles.
 
 See file: README.odt for details.
 
