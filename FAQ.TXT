@@ -65,8 +65,8 @@ A: Try power cycling the TV, manually choosing one of the missing channels,
    If a channel remains missing, try moving the antenna to where 
    the signal may be stronger such as on a window sill or above most
    objects in the room; Also consider moving the antenna further away 
-   from objects that might emit signals that intefere such as 
-   electrically powered devices --including the tv reciever.
+   from objects that might emit signals that interfere such as 
+   electrically powered devices --including the tv receiver.
    As with other indoor tv antennas, there is usually some compromise
    made between available channels and the antenna installation configuration
    such as position or orientation.
