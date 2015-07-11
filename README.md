@@ -15,7 +15,7 @@ You should have received a copy of the GNU General Public License along with thi
 Abstract
 ========
 
-This hardware design is for building an indoor tv antenna from commonly available parts. The design reduces material construction costs and reduces overall physical profile while matching signal strength and quality of other indoor tv antenna profiles. This design has multiple features: 1. A wide-band balun is built into the antenna. 2. The antenna consists mainly of 75ohm coaxial cable or equivalent. 3. An omnidirectional antenna design reduces installation hurdles associated with directional antennas. 4. No post-installation adjustments; Assumes a fixed position mount. 5. Self-powered; Does not use an amplifier with external power supply.
+This hardware design is for building an indoor television (tv) antenna from commonly available parts. The design reduces material construction costs and reduces overall physical profile while matching signal strength and quality of other indoor tv antenna profiles. This design has multiple features: 1. A wide-band balun is built into the antenna. 2. The antenna may be constructed of common materials, such as 75ohm coaxial cable or equivalent. 3. An omnidirectional antenna design reduces installation hurdles associated with directional antennas. 4. No post-installation adjustments; Assumes a fixed position mount. 5. Self-powered; Does not use an amplifier with external power supply.
 
 See file: README.odt for details.
 
