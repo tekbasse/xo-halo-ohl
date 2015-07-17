@@ -20,3 +20,5 @@ This hardware design is for building an indoor television (tv) antenna from comm
 See file: README.odt for details.
 
 See file: FAQ.TXT for Frequently Asked Questions.
+
+The most recent published version is available at https://github.com/ScheusRainbowArmy/xo-halo-ohl
